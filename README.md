@@ -40,6 +40,14 @@ An interactive browser arcade game where players mash, boil, time noble hop addi
 4. **The 45° Cold Pour Challenge**: Tilt the glass to avoid triggering a *404 Foam Overflow*.
 5. **Dual Purity & Cyber Certificate**: Awarded with the 1516 Bavarian Wax Seal and the NIST SP 800-82 Cyber Seal with cryptographic SHA-256 attestation.
 
+<p align="center">
+  <img
+    src="assets/new_glarus_beer_belt.gif"
+    alt="New Glarus Brewing Co. Flagship Brands Conveyor Ticker — Spotted Cow, Moon Man, Totally Naked, Two Women, Belgian Red"
+    width="100%"
+  />
+</p>
+
 ---
 
 ### 🌐 The Sovereign Ecosystem Architecture
