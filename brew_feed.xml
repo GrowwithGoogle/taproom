@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Chilled Pour — Grow with Google Taproom Feed</title>
-    <link>https://go.thepolka.cloud/taproom.html</link>
+    <link>https://taproom.thepolka.cloud</link>
     <description>Continuous RSS feed of Google-engineered craft concoctions, 1516 Reinheitsgebot compliance certificates, and NIST SP 800-82 brewery OT/ICS cyber defense attestations.</description>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Sep 2026 13:07:00 GMT</lastBuildDate>
@@ -10,7 +10,7 @@
 
     <item>
       <title>🍺 [TAPROOM DISPATCH] PageRank Pilsner Tapped (4.8% ABV, 36 IBU)</title>
-      <link>https://go.thepolka.cloud/taproom.html#pagerank-pilsner</link>
+      <link>https://taproom.thepolka.cloud#pagerank-pilsner</link>
       <guid isPermaLink="false">thepolka-cloud-brew-pagerank-pilsner-20260920</guid>
       <pubDate>Sun, 20 Sep 2026 12:00:00 GMT</pubDate>
       <description><![CDATA[
@@ -24,7 +24,7 @@
 
     <item>
       <title>🌾 [TAPROOM DISPATCH] 404: Yeast Not Found Poured (6.8% ABV, 24 IBU)</title>
-      <link>https://go.thepolka.cloud/taproom.html#404-yeast-not-found</link>
+      <link>https://taproom.thepolka.cloud#404-yeast-not-found</link>
       <guid isPermaLink="false">thepolka-cloud-brew-404-yeast-20260920</guid>
       <pubDate>Sun, 20 Sep 2026 11:30:00 GMT</pubDate>
       <description><![CDATA[
@@ -38,7 +38,7 @@
 
     <item>
       <title>🌿 [TAPROOM DISPATCH] Kernel Panic Double IPA Unleashed (8.4% ABV, 88 IBU)</title>
-      <link>https://go.thepolka.cloud/taproom.html#kernel-panic-dipa</link>
+      <link>https://taproom.thepolka.cloud#kernel-panic-dipa</link>
       <guid isPermaLink="false">thepolka-cloud-brew-kernel-panic-20260920</guid>
       <pubDate>Sun, 20 Sep 2026 10:45:00 GMT</pubDate>
       <description><![CDATA[
@@ -52,7 +52,7 @@
 
     <item>
       <title>☕ [TAPROOM DISPATCH] Smackover Nitro Stout Poured (9.2% ABV, 55 IBU)</title>
-      <link>https://go.thepolka.cloud/taproom.html#smackover-nitro-stout</link>
+      <link>https://taproom.thepolka.cloud#smackover-nitro-stout</link>
       <guid isPermaLink="false">thepolka-cloud-brew-smackover-nitro-20260920</guid>
       <pubDate>Sun, 20 Sep 2026 09:15:00 GMT</pubDate>
       <description><![CDATA[
