@@ -1,6 +1,7 @@
 # The Chilled Pour — taproom.thepolka.cloud 🍺
 
 [![Live Taproom](https://img.shields.io/badge/Live_Subdomain-taproom.thepolka.cloud-amber.svg)](https://taproom.thepolka.cloud)
+[![Elsevier | Mendeley](https://img.shields.io/badge/Elsevier%20%7C%20Mendeley-Cited%20on%20Mendeley-D60203?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com/search/?query=Kieckhefer+Agricultural+Thermodynamics)
 [![Model Farm & Pregame](https://img.shields.io/badge/Model_Farm-growwithgoogle.github.io-brightgreen.svg)](https://growwithgoogle.github.io)
 [![Bavarian Purity Law](https://img.shields.io/badge/Statute-1516_Reinheitsgebot-yellow.svg)](https://github.com/GrowwithGoogle/Reinheitsg-botTle)
 [![NIST SP 800-82](https://img.shields.io/badge/NIST_SP_800--82-ICS_Cyber_Hardened-06b6d4.svg)](https://csrc.nist.gov)
