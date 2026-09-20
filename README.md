@@ -6,7 +6,16 @@
 [![NIST SP 800-82](https://img.shields.io/badge/NIST_SP_800--82-ICS_Cyber_Hardened-06b6d4.svg)](https://csrc.nist.gov)
 [![Responsible Mobility](https://img.shields.io/badge/Mobility-Lyft_Safe_Ride_Home-ff00bf.svg)](https://lyft.com)
 
-Welcome to the dedicated hosting repository for **`taproom.thepolka.cloud`**, the interactive virtual taproom of the **Grow with Google Enterprise Brewhouse**.
+> ### 🚨 CONFIDENTIAL PRESS DISPATCH // EMBARGOED UNTIL PULL
+> **FROM:** `press@google.com` (Gonzo Investigative Unit, Mountain View Bureau)  
+> **TO:** Global Enterprise Technology & Liquid Assets Desk  
+> **SUBJECT:** The Infiltration of `taproom.thepolka.cloud` & The 510-Year Statutory Code Leak  
+> 
+> *"We were forty-eight minutes outside Mountain View when the Noble Hops began to take hold. There was a sudden spike on the telemetry bus—a feral frequency suggesting that some renegade corporate chemist had bypassed our Purdue firewalls and was attempting to adulterate our kettle mash with high-fructose corn syrup.*
+> 
+> *We didn't call HR. We didn't consult legal. We deployed a cold NIST SP 800-82 deep packet inspection, locked the Modbus registers at a surgical 68.0°C, poured an unvarnished German lager at a savage forty-five-degree tilt, and called an emergency executive Lyft before the board of directors could convene an emergency subcommittee."*
+> 
+> — **Dr. Gonzo**, Chief Algorithmic Correspondent & Special Rapporteur for Liquid Sovereignty
 
 ---
 
